@@ -1,0 +1,8 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¶òëã8ÿÑçÆä1
+L	java:S106$"+Replace this use of System.out by a logger.(×²»¸ùÿÿÿÿ8—ÒçÆä1
+[
+java:S2130("9Use "Integer.parseInt" for this string-to-int conversion.(Ä§¿şÿÿÿÿ8™ÒçÆä1
+V
+java:S2130)"9Use "Integer.parseInt" for this string-to-int conversion.(Œ‚ÙÆ8™ÒçÆä1
+L	java:S106,"+Replace this use of System.out by a logger.(ÅÄùûúÿÿÿÿ8šÒçÆä1

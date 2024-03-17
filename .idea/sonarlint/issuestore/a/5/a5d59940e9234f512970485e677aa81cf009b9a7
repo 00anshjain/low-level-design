@@ -1,0 +1,14 @@
+
+r
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(õ˜óøÿÿÿÿ8‘ ±ä1
+n
+java:S1104"QMake board a static final constant or non-public and provide accessors if needed.(Äû×ñ8‘ ±ä1
+1
+java:S1700"Rename field "board"(Äû×ñ8‘ ±ä1
+G	java:S106"+Replace this use of System.out by a logger.(Ö’¿¥8¢‘ ±ä1
+G
+java:S3457"%String contains no format specifiers.(¹—¿‰şÿÿÿÿ8¢‘ ±ä1
+L	java:S106"+Replace this use of System.out by a logger.(¹—¿‰şÿÿÿÿ8£‘ ±ä1
+L	java:S106 "+Replace this use of System.out by a logger.(’ÿ¶øÿÿÿÿ8£‘ ±ä1
+L	java:S106""+Replace this use of System.out by a logger.(ÚŒù²ùÿÿÿÿ8øÅ¡±ä1
+L	java:S106$"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Éò˜²ä1
