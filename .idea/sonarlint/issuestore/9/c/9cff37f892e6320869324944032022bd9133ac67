@@ -1,0 +1,9 @@
+
+c
+java:S1192""FDefine a constant instead of duplicating this literal "U1001" 5 times.(¤…—¹8±¸ÃÙæ1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "U2001" 5 times.(Ûãä8±¸ÃÙæ1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "U3001" 3 times.(¨¿Â·8ÊËÙæ1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ê‘˜üÿÿÿÿ8±¸ÃÙæ1
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šòŞä8±¸ÃÙæ1
