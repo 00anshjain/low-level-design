@@ -12,6 +12,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/snake-and-ladder-game-design" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/snake-and-ladder-game-design" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/splitwise-design" />
         <option name="modules">
           <set>
